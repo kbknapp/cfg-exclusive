@@ -1,4 +1,4 @@
-# `cfg-feature`
+# `cfg-exclusive`
 
 ![Rust Version][rustc-image]
 [![crates.io][crate-image]][crate-link]
